@@ -12,11 +12,3 @@ Lot's of awesome work happening here. Reach out to the org admins with any quest
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-
-## Tags
-To facilitate querying, we are using tags for each repository. The more tags, the better. The more specific the tags, the better.
-Here are some conventions:
-* Use lowecase
-* `geotechnics` not `geotechnical` not `geo` just `geotechnics`
-* Repositories that support project work should have the `project-work` tag
