@@ -17,5 +17,6 @@ Lot's of awesome work happening here. Reach out to the org admins with any quest
 ## Tags
 To facilitate querying, we are using tags for each repository. The more tags, the better. The more specific the tags, the better.
 Here are some conventions:
-* Lowercase
+* Use lowecase
 * `geotechnics` not `geotechnical` not `geo` just `geotechnics`
+* Repositories that support project work should have the `project-work` tag
